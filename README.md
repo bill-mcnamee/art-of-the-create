@@ -19,7 +19,7 @@ Photography has been part of my creative life for more than four decades, both f
 Writing has increasingly become a way of exploring many of the same subjects that interest me visually. My work includes essays, commentary, fiction, reviews, personal history, and conversations about creativity and technology. Much of my writing begins with observation, curiosity, or a question worth exploring, whether the result is factual, reflective, or fictional.
 
 **Independent Publishing**  
-Independent publishing is already part of my work through Bill McNamee | The Art of the Create and selected book projects. It gives me direct control over the writing, photography, editing, design, and presentation of the work I publish. I am now developing Kerrsplat Publishing as my own publishing imprint, expanding those capabilities into books and other printed work, with the longer-term goal of publishing work by other creators as well as my own.
+Independent publishing is already part of my work through BillMcNamee.com and selected book projects. It gives me direct control over the writing, photography, editing, design, and presentation of the work I publish. I am now developing Kerrsplat Publishing as my own publishing imprint, expanding those capabilities into books and other printed work, with the longer-term goal of publishing work by other creators as well as my own.
 
 **Creative Technology**  
 My background in technology and creative work often brings the two together, both in my own practice and in the development and support of creative workflows for others. That work includes finding practical ways to use technology that support the creative process rather than define it. Responsible use of assistive and generative AI has become a particular focus, both in my own work and in my continuing exploration of how these technologies can be used effectively by creative professionals.
@@ -66,7 +66,7 @@ I use assistive and generative AI as tools for discussion, research, critique, e
 BillMcNamee.com is structured with search and discovery in mind, using descriptive titles and metadata, image information, internal linking, and consistent organization across the site. These practices are intended to make the work easier to find, navigate, and understand through both traditional search and emerging forms of machine-assisted discovery.
 
 **Creative Independence**  
-Bill McNamee | The Art of the Create is independently developed, edited, and published, without affiliate programs, commissions, paid placement, or outside commercial influence. I retain creative and editorial control over the work and how it is presented, while maintaining transparency about the tools, resources, and any outside relationships that contribute to it.
+My creative work is independently developed, edited, and published, without affiliate programs, commissions, paid placement, or outside commercial influence. I retain creative and editorial control over the work and how it is presented, while maintaining transparency about the tools, resources, and any outside relationships that contribute to it.
 
 **Kerrsplat Publishing**  
 Kerrsplat is an independent publishing imprint connected to Bill McNamee | The Art of the Create, providing a shared identity for selected books, photography publications, written works, and other creative projects. Initially focused on my own work, Kerrsplat is intended to grow as a publishing home for selected work by other creators while maintaining the same emphasis on independence, care, and creative integrity.
