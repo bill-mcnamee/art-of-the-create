@@ -73,13 +73,18 @@ Kerrsplat is an independent publishing imprint connected to Bill McNamee | The A
 
 ## Links
 
-**[BillMcNamee.com](https://www.billmcnamee.com/)**  
-The primary home for Bill McNamee | The Art of the Create.
+**[Bill McNamee | The Art of the Create](https://www.billmcnamee.com/)**  
+The primary home for my creative and professional work.
 
+**[Discover](https://www.billmcnamee.com/discover)**  
+A starting point for exploring the photography, writing, projects, and other work published across the site.
 
+**[Legal](https://www.billmcnamee.com/legal)**  
+Copyright, trademarks, terms, and other legal information.
 
+**[Independence Statement](https://www.billmcnamee.com/independence)**  
+Principles governing editorial independence, commercial relationships, and transparency.
 
-
-
-
-
+**[Kerrsplat Publishing](https://www.billmcnamee.com/kerrsplat)**  
+The independent publishing imprint connected to Bill McNamee | The Art of the Create.
+And this is consistent with the naming distinction we just established: the URL remains BillMcNamee.com, while the visible identity is Bill McNamee | The Art of the Create.
