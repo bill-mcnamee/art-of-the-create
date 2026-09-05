@@ -71,7 +71,10 @@ My creative work is independently developed, edited, and published, without affi
 **Kerrsplat Publishing**  
 Kerrsplat is an independent publishing imprint connected to Bill McNamee | The Art of the Create, providing a shared identity for selected books, photography publications, written works, and other creative projects. Initially focused on my own work, Kerrsplat is intended to grow as a publishing home for selected work by other creators while maintaining the same emphasis on independence, care, and creative integrity.
 
+## Links
 
+**[BillMcNamee.com](https://www.billmcnamee.com/)**  
+The primary home for Bill McNamee | The Art of the Create.
 
 
 
