@@ -87,4 +87,3 @@ Principles governing editorial independence, commercial relationships, and trans
 
 **[Kerrsplat Publishing](https://www.billmcnamee.com/kerrsplat)**  
 The independent publishing imprint connected to Bill McNamee | The Art of the Create.
-And this is consistent with the naming distinction we just established: the URL remains BillMcNamee.com, while the visible identity is Bill McNamee | The Art of the Create.
