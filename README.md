@@ -19,7 +19,7 @@ Photography has been part of my creative life for more than four decades, both f
 Writing has increasingly become a way of exploring many of the same subjects that interest me visually. My work includes essays, commentary, fiction, reviews, personal history, and conversations about creativity, technology, and the experiences that connect them. Much of my writing begins with observation, curiosity, or a question worth exploring, whether the result is factual, reflective, or fictional.
 
 **Independent Publishing**  
-Independent publishing provides a way to bring those disciplines together. Photography, writing, editing, design, and production become finished publications, including earlier work and new book projects being developed through Kerrsplat Publishing.
+Independent publishing is already part of my work through The Art of the Create and selected book projects. It gives me direct control over the writing, photography, editing, design, and presentation of the work I publish. I am now developing Kerrsplat Publishing as my own publishing imprint, expanding those capabilities into books and other printed work, with the longer-term goal of publishing work by other creators as well as my own.
 
 **Creative Technology**  
 Technology runs throughout that process. My interests include digital imaging, photography and publishing workflows, web technologies, and both assistive and generative AI. I use these technologies as creative tools, while also exploring how they affect the ways we create, work, and communicate.
