@@ -62,6 +62,21 @@ My creative work often involves a combination of photography, writing, editing, 
 **Responsible AI**  
 I use assistive and generative AI as tools for discussion, research, critique, editing, development, analysis, and creative experimentation. My approach emphasizes transparency, human judgment, and responsibility for the finished work, while continuing to explore where these technologies can genuinely contribute to creative and professional workflows.
 
+**Search & Discovery**  
+BillMcNamee.com is structured with search and discovery in mind, using descriptive titles and metadata, image information, internal linking, and consistent organization across the site. These practices are intended to make the work easier to find, navigate, and understand through both traditional search and emerging forms of machine-assisted discovery.
+
+**Creative Independence**  
+Bill McNamee | The Art of the Create is independently developed, edited, and published, without affiliate programs, commissions, paid placement, or outside commercial influence. I retain creative and editorial control over the work and how it is presented, while maintaining transparency about the tools, resources, and any outside relationships that contribute to it.
+
+**Kerrsplat Publishing**  
+Kerrsplat is an independent publishing imprint connected to Bill McNamee | The Art of the Create, providing a shared identity for selected books, photography publications, written works, and other creative projects. Initially focused on my own work, Kerrsplat is intended to grow as a publishing home for selected work by other creators while maintaining the same emphasis on independence, care, and creative integrity.
+
+
+
+
+
+
+
 
 
 
