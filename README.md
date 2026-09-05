@@ -13,7 +13,7 @@ In May 2025, I relaunched BillMcNamee.com as Bill McNamee | The Art of the Creat
 ## Scope
 
 **Photography**  
-Photography has been part of my creative life for more than four decades, both film and digital. My work ranges from personal projects and commissioned photography to images made simply because something caught my attention. Today, I continue to make new photographs while also revisiting an extensive archive of earlier work.
+Photography has been part of my creative life for more than four decades, both film and digital. My work ranges from personal projects and professional assignments to images made simply because something caught my attention. Today, I continue to make new photographs while also revisiting an extensive archive of earlier work.
 
 **Writing**  
 Writing has increasingly become another way of exploring many of the same subjects that interest me visually. My work includes essays, commentary, fiction, reviews, personal history, and conversations about creativity, technology, and the experiences that connect them.
