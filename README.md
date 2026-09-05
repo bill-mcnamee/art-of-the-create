@@ -13,13 +13,14 @@ In May 2025, I relaunched BillMcNamee.com as Bill McNamee | The Art of the Creat
 ## Scope
 
 **Photography**  
-Photography has been a central part of my creative work for more than four decades, encompassing personal projects, commissioned work, event photography, travel and documentary work, photographic essays, and ongoing exploration of the everyday environment. The site includes both current photography and selected work from my archives.
+Photography has been part of my creative life for more than four decades, from personal and commissioned work to events, travel, documentary photography, and photographic essays. Today, that work combines new photography with selected images and projects drawn from an extensive archive.
 
 **Writing**  
-My writing includes essays, commentary, fiction, reviews, personal history, and explorations of creativity, technology, and the intersection between them. It also includes Chats with G, an ongoing series of conversations with generative AI examining subjects ranging from creative practice and technology to broader cultural questions.
+Writing has increasingly become another way of exploring many of the same subjects that interest me visually. My work includes essays, commentary, fiction, reviews, personal history, and conversations about creativity, technology, and the experiences that connect them.
 
 **Independent Publishing**  
-My publishing work brings photography, writing, editing, design, and production together in independently produced books and other publications. This work includes both earlier publications and new projects being developed through Kerrsplat Publishing.
+Independent publishing provides a way to bring those disciplines together. Photography, writing, editing, design, and production become finished publications, including earlier work and new book projects being developed through Kerrsplat Publishing.
 
 **Creative Technology**  
-Technology has been part of my creative practice throughout my career, from digital imaging and photography workflows to publishing, web technologies, and generative AI. I use and explore these tools both as part of the creative process and as subjects worth examining in their own right.
+Technology runs throughout that process. My interests include digital imaging, photography and publishing workflows, web technologies, and both assistive and generative AI. I use these technologies as creative tools, while also exploring how they affect the ways we create, work, and communicate.
+This reads much better to me.
