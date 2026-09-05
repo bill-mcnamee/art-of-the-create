@@ -82,8 +82,8 @@ A starting point for exploring the photography, writing, projects, and other wor
 **[Legal](https://www.billmcnamee.com/legal)**  
 Copyright, trademarks, terms, and other legal information.
 
-**[Independence Statement](https://www.billmcnamee.com/independence)**  
+**[Independence](https://www.billmcnamee.com/independence)**  
 Principles governing editorial independence, commercial relationships, and transparency.
 
-**[Kerrsplat Publishing](https://www.billmcnamee.com/kerrsplat)**  
+**[Kerrsplat](https://www.billmcnamee.com/kerrsplat)**  
 The independent publishing imprint connected to Bill McNamee | The Art of the Create.
