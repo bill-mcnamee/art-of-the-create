@@ -49,3 +49,19 @@ Several recurring series have developed within the site:
 - *LifeTracks* explores the music that has shaped my life through the moments and memories connected to it.
 
 Each series provides a framework for returning to a subject over time while allowing the individual pieces to stand on their own.
+
+**Photography Portfolio**  
+BillMcNamee.com includes a dedicated photographic portfolio, presented on the site as *Folios*. The portfolio brings together selected photographs from different periods of my work, providing a focused view of my photography apart from the broader photographic work published throughout the site.
+
+**Archive & Retrospectives**  
+A substantial archive of earlier work provides an ongoing source for new material on BillMcNamee.com. Selected photography, writing, and other creative work is revisited, reassessed, and, where appropriate, reprocessed or presented in new contexts alongside the work I continue to create today.
+
+**Creative Workflows**  
+My creative work often involves a combination of photography, writing, editing, design, publishing, and technology. The workflows behind that work range from traditional photographic and publishing processes to newer approaches incorporating assistive and generative AI, with tools and methods selected according to the needs of each project.
+
+**Responsible AI**  
+I use assistive and generative AI as tools for discussion, research, critique, editing, development, analysis, and creative experimentation. My approach emphasizes transparency, human judgment, and responsibility for the finished work, while continuing to explore where these technologies can genuinely contribute to creative and professional workflows.
+
+
+
+
