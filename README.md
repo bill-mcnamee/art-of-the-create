@@ -22,5 +22,4 @@ Writing has increasingly become a way of exploring many of the same subjects tha
 Independent publishing is already part of my work through The Art of the Create and selected book projects. It gives me direct control over the writing, photography, editing, design, and presentation of the work I publish. I am now developing Kerrsplat Publishing as my own publishing imprint, expanding those capabilities into books and other printed work, with the longer-term goal of publishing work by other creators as well as my own.
 
 **Creative Technology**  
-Technology runs throughout that process. My interests include digital imaging, photography and publishing workflows, web technologies, and both assistive and generative AI. I use these technologies as creative tools, while also exploring how they affect the ways we create, work, and communicate.
-This reads much better to me.
+My background in technology and creative work often brings the two together, both in my own practice and in the development and support of creative workflows for others. That work includes finding practical ways to use technology that support the creative process rather than define it. Responsible use of assistive and generative AI has become a particular focus, both in my own work and in my continuing exploration of how these technologies can be used effectively by creative professionals.
