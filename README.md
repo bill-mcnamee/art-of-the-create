@@ -12,15 +12,15 @@ In May 2025, I relaunched BillMcNamee.com as Bill McNamee | The Art of the Creat
 
 ## Scope
 
-**Photography**<br>  
+**Photography**  
 Photography has been part of my creative life for more than four decades, from personal and commissioned work to events, travel, documentary photography, and photographic essays. Today, that work combines new photography with selected images and projects drawn from an extensive archive.
 
-**Writing**<br>  
+**Writing**  
 Writing has increasingly become another way of exploring many of the same subjects that interest me visually. My work includes essays, commentary, fiction, reviews, personal history, and conversations about creativity, technology, and the experiences that connect them.
 
-**Independent Publishing**<br>  
+**Independent Publishing**  
 Independent publishing provides a way to bring those disciplines together. Photography, writing, editing, design, and production become finished publications, including earlier work and new book projects being developed through Kerrsplat Publishing.
 
-**Creative Technology**<br>  
+**Creative Technology**  
 Technology runs throughout that process. My interests include digital imaging, photography and publishing workflows, web technologies, and both assistive and generative AI. I use these technologies as creative tools, while also exploring how they affect the ways we create, work, and communicate.
 This reads much better to me.
