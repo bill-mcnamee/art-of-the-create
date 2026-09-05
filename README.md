@@ -32,10 +32,20 @@ Since relaunching BillMcNamee.com in May 2025, I have maintained a weekly publis
 **Content Categories**  
 The site is organized around five flexible content categories:
 
-- *Frames* for photography
-- *Nearscape* for photographic work captured within ten miles of home
-- *Musings* for creative and reflective writing
-- *Bento* as a container for work that does not fit neatly elsewhere
-- *Dispatch* for news and updates about the site, my work, and related activities
+- *Frames* presents photography from across my work.
+- *Nearscape* features photographic work captured within ten miles of home.
+- *Musings* contains creative and reflective writing.
+- *Bento* provides a container for work that does not fit neatly elsewhere.
+- *Dispatch* covers news and updates about the site, my work, and related activities.
 
 The categories provide structure without requiring every piece of work to fit within rigid boundaries.
+
+**Web Series**  
+Several recurring series have developed within the site:
+
+- *Nearscape Photography* is an ongoing photographic exploration of subjects found within ten miles of home.
+- *Chats with G* explores AI, creativity, technology, and other subjects through ongoing conversations with ChatGPT.
+- *Stacks* is a recurring series of book reviews.
+- *LifeTracks* explores the music that has shaped my life through the moments and memories connected to it.
+
+Each series provides a framework for returning to a subject over time while allowing the individual pieces to stand on their own.
