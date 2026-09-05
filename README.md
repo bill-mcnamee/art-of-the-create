@@ -16,7 +16,7 @@ In May 2025, I relaunched BillMcNamee.com as Bill McNamee | The Art of the Creat
 Photography has been part of my creative life for more than four decades, both film and digital. My work ranges from personal projects and professional assignments to images made simply because something caught my attention. Today, I continue to make new photographs while also revisiting an extensive archive of earlier work.
 
 **Writing**  
-Writing has increasingly become another way of exploring many of the same subjects that interest me visually. My work includes essays, commentary, fiction, reviews, personal history, and conversations about creativity, technology, and the experiences that connect them.
+Writing has increasingly become a way of exploring many of the same subjects that interest me visually. My work includes essays, commentary, fiction, reviews, personal history, and conversations about creativity, technology, and the experiences that connect them. Much of my writing begins with observation, curiosity, or a question worth exploring, whether the result is factual, reflective, or fictional.
 
 **Independent Publishing**  
 Independent publishing provides a way to bring those disciplines together. Photography, writing, editing, design, and production become finished publications, including earlier work and new book projects being developed through Kerrsplat Publishing.
